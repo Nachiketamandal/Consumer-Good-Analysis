@@ -22,7 +22,7 @@ As a hypothetical applicant for this role, I was tasked with:
 ## Data Model 
 
 <p align="center">
-  <img src="https://github.com/Nachiketamandal/Consumer-Good-Analysis/compare/main...Nachiketamandal-Data-Modeling?expand=1">
+  <img src="https://github.com/Nachiketamandal/Consumer-Good-Analysis/blob/main/Screenshot%202024-12-23%20135023.jpg">
 </p>
 
 
