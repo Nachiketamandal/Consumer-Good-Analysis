@@ -22,7 +22,7 @@ As a hypothetical applicant for this role, I was tasked with:
 ## Data Model 
 
 <p align="center">
-  <img src="https://github.com/Nachiketamandal/Electric-Vehicles-Analysis-In-India/blob/main/Data%20Modeling%20updated.jpg">
+  <img src="https://github.com/Nachiketamandal/Consumer-Good-Analysis/compare/main...Nachiketamandal-Data-Modeling?expand=1">
 </p>
 
 
